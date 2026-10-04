@@ -11,7 +11,7 @@ Mon parcours pour devenir développeur backend Python (51 semaines).
 | Semaine | Sujet | Mini-projet | Statut |
 |---|---|---|---|
 | S1 | Terminal et Linux | s01-rapport-logs | en cours |
-| S2 | Git, GitHub, environnements | ce dépôt | en cours |
+| S2 | Git, GitHub, environnements | ce dépôt |Terminé |
 
 ## Mes gros projets
 À venir : Projet B (Django), Projet A (FastAPI), Projet C.
