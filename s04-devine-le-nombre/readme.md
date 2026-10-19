@@ -1,8 +1,4 @@
 # s04-devine-le-nombre
-## Ce que ça fait
-Une ou deux phrases.
-## Comment le lancer
-python main.py (ou les commandes exactes)
 ## Ce que j'ai appris
 - **s04 :**
   - `=` : Affectation
@@ -13,4 +9,4 @@ python main.py (ou les commandes exactes)
   - `args ` :  (*args) Il regroupe tous les arguments positionnels supplémentaires dans un tuple.
   - `kwargs ` : (**kwargs) Il capture tous les arguments nommés (sous la forme clef=valeur) et les stocke dans un dictionnaire.
 ## Ce qui m'a bloqué
-- ... (et comment je l'ai résolu)
+- ... Je n'ai compris que le premier des 05 algos
