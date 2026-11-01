@@ -15,8 +15,9 @@ Mon parcours pour devenir développeur backend Python (51 semaines).
 | S3 | Bases de Python (1/2) : chaînes, nombres, collections |s03-analyseur-texte |Terminé|
 | S4 | Bases de Python (2/2) : conditions, boucles, fonctions,modules |s04-devine-le-nombre |Terminé en partie|
 | S5 | Slices, compréhensions, tri et formatage | s05-outils-texte  |Terminé|
-| S6 |  Fichiers, CSV, JSON, os, datetime | s06-csv-vers-json  |En cours|
-    
+| S6 |  Fichiers, CSV, JSON, os, datetime | s06-csv-vers-json  |Terminé|
+| S7 | Erreurs, regex et environnements | s07-extracteur-rege | En cours |
+
      
 
 ## Mes gros projets A venir .....

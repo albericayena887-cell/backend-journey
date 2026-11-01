@@ -1,0 +1,12 @@
+{
+  "nom": "Dupont",
+  "prenom": "Jean",
+  "age": 34,
+  "est_actif": true,
+  "competences": ["Python", "HTML", "SQL"],
+  "adresse": {
+    "ville": "Paris",
+    "code_postal": "75001",
+    "telephone": null
+  }
+}
