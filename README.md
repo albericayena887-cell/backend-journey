@@ -11,12 +11,13 @@ Mon parcours pour devenir développeur backend Python (51 semaines).
 | Semaine | Sujet | Mini-projet | Statut |
 |---|---|---|---|
 | S1 | Terminal et Linux | s01-rapport-logs | En cours |
-| S2 | Git, GitHub, environnements | ce dépôt |Terminé |
-| S3 | Bases de Python (1/2) : chaînes, nombres, collections |s03-analyseur-texte |Terminé|
-| S4 | Bases de Python (2/2) : conditions, boucles, fonctions,modules |s04-devine-le-nombre |Terminé en partie|
-| S5 | Slices, compréhensions, tri et formatage | s05-outils-texte  |Terminé|
-| S6 |  Fichiers, CSV, JSON, os, datetime | s06-csv-vers-json  |Terminé|
-| S7 | Erreurs, regex et environnements | s07-extracteur-rege | En cours |
+| S2 | Git, GitHub, environnements | ce dépôt | Terminé |
+| S3 | Bases de Python (1/2) : chaînes, nombres, collections |s03-analyseur-texte | Terminé |
+| S4 | Bases de Python (2/2) : conditions, boucles, fonctions,modules |s04-devine-le-nombre | Terminé en partie |
+| S5 | Slices, compréhensions, tri et formatage | s05-outils-texte   | Terminé |
+| S6 |  Fichiers, CSV, JSON, os, datetime | s06-csv-vers-json  | Terminé |
+| S7 | Erreurs, regex et environnements | s07-extracteur-rege | Terminé |
+| S8 | Programmation orientée objet | s08-bibliotheque-poo | En cours |
 
      
 
